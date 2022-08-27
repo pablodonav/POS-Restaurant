@@ -1,0 +1,24 @@
+1
+Albondigas
+4.50
+2
+Parrillada de Verduras
+7.0
+3
+Chuleton con Patatas
+12.0
+4
+Delicias de Teruel
+7.50
+5
+Patatas Bravas
+4.50
+6
+Ensalada Cesar
+8.0
+7
+Bocadillo de calamares bravos
+6.50
+8
+Brownie de chocolate
+4.0

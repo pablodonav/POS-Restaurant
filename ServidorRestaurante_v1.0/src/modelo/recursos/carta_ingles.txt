@@ -1,0 +1,24 @@
+1
+Meatballs
+4.50
+2
+Grilled Vegetables
+7.0
+3
+Chop and Potatoes
+12.0
+4
+Teruel Delicacies
+7.50
+5
+Spicy Potatoes
+4.50
+6
+Cesar Salad
+8.0
+7
+Brave Squid Sandwich
+6.50
+8
+Chocolate Brownie
+4.0
